@@ -33,6 +33,6 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   icon: {
-    color: 'black',
+    color: 'grey',
   },
 });
